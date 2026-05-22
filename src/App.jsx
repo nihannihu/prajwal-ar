@@ -29,7 +29,7 @@ function App() {
           <title>Prajwal AR | Elite Digital Marketing & Growth Consultant</title>
           <meta name="description" content="Official portfolio of Prajwal AR. Discover how I scale e-commerce brands past $1M/ARR using data-driven performance marketing and high-ticket funnels." />
           <meta name="keywords" content="Prajwal AR, Prajwal AR digital marketing, Prajwal AR portfolio, performance marketer, growth consultant" />
-          <meta name="google-site-verification" content="FF4kDJytKTK8ynePhzYU0vrDdq7Qw0xR3j15iS4JtTM" />
+          <meta name="google-site-verification" content="3qPsEyIbH4clDxF6ioc0qSyvdicgmdU8AMuDh1mUF78" />
           
           {/* Open Graph / Facebook */}
           <meta property="og:type" content="website" />
