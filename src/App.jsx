@@ -14,8 +14,8 @@ function App() {
     "@type": "Person",
     "name": "Prajwal AR",
     "jobTitle": "Digital Marketing Consultant",
-    "image": "https://prajwalar.com/prajwal-ar.jpeg",
-    "url": "https://prajwalar.com",
+    "image": "https://prajwal-ar.vercel.app/prajwal-ar.PNG",
+    "url": "https://prajwal-ar.vercel.app",
     "sameAs": [
       "https://www.linkedin.com/in/prajwal-ar390/",
       "https://instagram.com/_iamprajwal._"
@@ -32,17 +32,17 @@ function App() {
           
           {/* Open Graph / Facebook */}
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://prajwalar.com/" />
+          <meta property="og:url" content="https://prajwal-ar.vercel.app/" />
           <meta property="og:title" content="Prajwal AR | Elite Digital Marketing & Growth Consultant" />
           <meta property="og:description" content="Official portfolio of Prajwal AR. Discover how I scale e-commerce brands past $1M/ARR using data-driven performance marketing and high-ticket funnels." />
-          <meta property="og:image" content="/prajwal-ar.PNG" />
+          <meta property="og:image" content="https://prajwal-ar.vercel.app/prajwal-ar.PNG" />
 
           {/* Twitter */}
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:url" content="https://prajwalar.com/" />
+          <meta property="twitter:url" content="https://prajwal-ar.vercel.app/" />
           <meta property="twitter:title" content="Prajwal AR | Elite Digital Marketing & Growth Consultant" />
           <meta property="twitter:description" content="Official portfolio of Prajwal AR. Discover how I scale e-commerce brands past $1M/ARR using data-driven performance marketing and high-ticket funnels." />
-          <meta property="twitter:image" content="/prajwal-ar.PNG" />
+          <meta property="twitter:image" content="https://prajwal-ar.vercel.app/prajwal-ar.PNG" />
 
           <script type="application/ld+json">
             {JSON.stringify(schemaData)}
